@@ -1,0 +1,113 @@
+{
+    "name": "Tanya Joshi",
+    "contact": {
+        "linkedin": "www.linkedin.com/in/tanya-joshi17",
+        "email": "joshitanya17@gmail.com",
+        "github": "github.com/TanyaJoshi123",
+        "mobile": "+91-9027904034"
+    },
+    "skills": {
+        "languages": ["R", "Python"],
+        "frameworks": ["HTML", "CSS"],
+        "tools_platforms": ["MySQL", "Github", "PowerBI", "SAP"],
+        "soft_skills": ["Problem-Solving Skills", "Team Player", "Project Management", "Adaptability"]
+    },
+    "experience": [
+        {
+            "company": "Capgemini Mumbai",
+            "position": "Senior Analyst",
+            "duration": "Nov 2020- Nov 2022",
+            "about": "SAP Production Planning and Quality Management",
+            "responsibilities": [
+                "Performed business analysis of logistics flows",
+                "Provided functional specifications for the developers and prepared test scripts",
+                "Conducted training sessions for key-users",
+                "Gathered customer requirements",
+                "Performed testing based on the test scripts"
+            ],
+            "tech_stacks_used": ["SAP ABAP", "SAP PP", "SAP QM"]
+        }
+    ],
+    "projects": [
+        {
+            "name": "NLP: Twitter Sentiment Analysis",
+            "duration": "July 2024-Aug 2024",
+            "description": [
+                "Trained a Naive Bayes classifier to predict sentiment from thousands of Twitter tweets",
+                "Performed exploratory data analysis",
+                "Applied python libraries to import and visualize dataset",
+                "Evaluated the performance of trained Naïve Bayes Classifier model using confusion matrices"
+            ],
+            "tech": ["Python", "NLP"]
+        },
+        {
+            "name": "COVID-19 data analysis using Python",
+            "duration": "Jan 2024-Feb 2024",
+            "description": [
+                "Learnt how to preprocess and merge datasets to calculate needed measures",
+                "Visualized the analysis results using Seaborn"
+            ],
+            "tech": ["Python programming"]
+        },
+        {
+            "name": "AI-powered Chest disease detection and classification",
+            "duration": "Nov 2023-Dec 2023",
+            "description": [
+                "Built, trained and tested ResNets in Keras and Tensorflow to detect and classify chest disease from X-Ray Images",
+                "Performed data visualization and assess trained classifier model performance using various KPIs"
+            ],
+            "tech": ["AI", "Deep learning", "Machine learning"]
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Natural Language Processing with Classification and Vector Spaces by Coursera",
+            "date": "Aug 2024"
+        },
+        {
+            "name": "Generative AI: Prompt Engineering Basics",
+            "date": "Aug 2024"
+        },
+        {
+            "name": "Data modelling in Power BI by Coursera",
+            "date": "Jan 2024"
+        },
+        {
+            "name": "Basic foundation on Java Programming by Internshala",
+            "date": "May 2021"
+        }
+    ],
+    "achievements": [
+        {
+            "name": "Navdhara: National Level Technical Fest",
+            "date": "May 2017- Jun 2017",
+            "description": "Presented the working model of 'Production of Bio-Fuel' in National level technical fest Navdhara 2k17 and awarded 'Viewer's choice' award"
+        }
+    ],
+    "education": [
+        {
+            "institution": "Lovely Professional University, Punjab India",
+            "degree": "Master of Technology – Data Science",
+            "cgpa": "8.22",
+            "since": "August 2023"
+        },
+        {
+            "institution": "Dev Bhoomi Institute Of Technology, Dehradun Uttarakhand",
+            "degree": "Bachelor of Technology – CSE",
+            "percentage": "82 %",
+            "duration": "August 2016- May 2020"
+        },
+        {
+            "institution": "DAV Public School, Dehradun Uttarakhand",
+            "degree": "Intermediate",
+            "percentage": "81 %",
+            "duration": "April 2015 - March 2016"
+        },
+        {
+            "institution": "DAV Public School, Dehradun Uttarakhand",
+            "degree": "Matriculation",
+            "cgpa": "10",
+            "duration": "April 2013 - March 2014"
+        }
+    ]
+}
